@@ -6,7 +6,6 @@ public class Solution {
         int target = 0;
         System.out.println(searchInsert(nums, target));
         System.out.println(searchInsert2(nums, target));
-        System.out.println(searchInsert3(nums, target));
     }
 
     public static int searchInsert(int[] nums, int target) {
